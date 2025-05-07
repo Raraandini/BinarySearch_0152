@@ -20,4 +20,10 @@ void input()
             cout << "\n[!] jumlah elemen tidak boleh lebih dari 10. Silakan coba lagi.\n";
         }
     }
+
+    cout << "\n========================================\n";
+    cout << "            Masukkan Elemen Array         \n";
+    cout << "===========================================\n";
+    for (int i = 0; i < nPanjang; i++)
+    
 }
